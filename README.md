@@ -1,0 +1,1 @@
+## This repo builds a Kubernetes cluster from scratch using Terraform to deploy the architecture and Ansible to configure the master and worker nodes
